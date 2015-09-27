@@ -10,3 +10,7 @@ I think the staging area is different in that it is not actually a set of files,
 
 The value is that you can begin checking in parts of a large project
 as you go along to keep track of what is being added to the commit. This is also logically useful for a team project where everyone takes a piece and adds it to the staging are as they complete their task. The manager can then send a commit and compile everything to see if it works. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+idk
