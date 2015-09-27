@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+during initialization a hidden files is created. perhaps within that file are other hidden files. let’s check.Yes, 10 whole subfiles are created in the .git directory. They are full of files and directories themselves.
+
+Apparently the whole archive structure is built during initialization.
+
