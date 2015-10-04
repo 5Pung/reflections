@@ -18,3 +18,7 @@ idk
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 if i was working on two different logical changes at the same time but I didn’t want to implement them together I could have branches developing each new feature until they worked, and then merge them to gather to see if they conflicted with one another. Also regionalizing, or making variants to run on multiple platforms could use branching. Of course, having multiple developers on a team would also use branches to separate their work and then merge it together to see if it works as a whole. 
+
+How do the diagrams help you visualize the branch structure?
+
+well they give you a tool, but the whole branch strutter amy be better seen with a gui. I would prefer the GUI. but at lest at this point I understand some of the underlying issues with a GUI. Also I don’t know if a GUI can allow unnamed branches or detached heads. I also still haven’t been able to see the branching diagrams in my system like int he examples.
