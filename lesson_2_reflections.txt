@@ -22,3 +22,14 @@ if i was working on two different logical changes at the same time but I didn’
 How do the diagrams help you visualize the branch structure?
 
 well they give you a tool, but the whole branch strutter amy be better seen with a gui. I would prefer the GUI. but at lest at this point I understand some of the underlying issues with a GUI. Also I don’t know if a GUI can allow unnamed branches or detached heads. I also still haven’t been able to see the branching diagrams in my system like int he examples.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+well you gained and lost some code and your branch structure may get more complicated, or more simple, but the actual history is more complicated. I bet a GUI is much more useful here. I am already appreciating and anticipating what I expect from my GUI applications for GIT.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
+the pro is that lots of changes will be highlighted and put side by side
+
+however some branches amy be so far diverging that they will be really messy - like a translation branch where all the strings are necessarily different. A nice situation is when two programmers are working in widely different sections of the code and will not be overlapping their code. Planning ahead to use gif could be done for things like translation by putting all the output text into t able or something or even including a translation table as  separate item so that these area easily editable. 
