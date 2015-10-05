@@ -1,3 +1,8 @@
 1. When would you want to use a remote repository rather than keeping all your work local?
 
 I can think of a few reasons: a) I want to have a "safe" place in the cloud to store my work; b) I want to share with collaborators and use the GitHub repository as our central place to keep work; c) I want to find collaborators by posting my project on GitHub and promote it there; d) I am very mobile and am working on the project from various computers ata various times.
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I would worry that there might be changes going on at the GitHub repository that I am not making and that the pull operation might overwrite my current work, or might bury my current commit under other developers’ commits. I am not quite sure what would happen.
+
