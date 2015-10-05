@@ -1,0 +1,3 @@
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+I can think of a few reasons: a) I want to have a "safe" place in the cloud to store my work; b) I want to share with collaborators and use the GitHub repository as our central place to keep work; c) I want to find collaborators by posting my project on GitHub and promote it there; d) I am very mobile and am working on the project from various computers ata various times.
