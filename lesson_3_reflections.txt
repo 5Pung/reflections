@@ -6,3 +6,6 @@ I can think of a few reasons: a) I want to have a "safe" place in the cloud to s
 
 I would worry that there might be changes going on at the GitHub repository that I am not making and that the pull operation might overwrite my current work, or might bury my current commit under other developers’ commits. I am not quite sure what would happen.
 
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches exist within the project you are working on. Clones are copies of the whole project. Forks are like branches of clones; a fork is a branch of an entire project, a clone, but a clone that is able to become a separate direction for a project, not to ever merge back into the original from which it was forked.
