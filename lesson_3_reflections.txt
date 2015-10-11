@@ -13,3 +13,21 @@ Branches exist within the project you are working on. Clones are copies of the w
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 I think that rather than being a benefit, it is a necessity. The last known state of the remote is the key to being able to compare the remote and the local repositories. It is the common point of reference, without which they could not be compared by the computers.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+One way to collaborate without github would be to work in the same physical location as the collaborators. There you could walk from person to person to review code changes.
+
+Another strategy would be to just use git attached to a common server location. Each collaborator would work on a separate branch of that common repository. 
+
+There are, I understand other Git GUIs that can be used to visualize workflow in git. 
+
+There are alternate tools like Mercurial.
+
+Or the collaborators could all work on a single file sequentially and build it very carefully. During such a process changes could be added and then commented out to test them. All the experimental changes would be kept in the comments sections of a single file.
+
+Working on sections of code in sandboxes to test them before trying to add them to a coding project may be another strategy to test without altering you “master” product.
+
+Manually keeping differently named files in a folder system on the computer could also be done. 
+
+There are probably a lot of project management and software architecture decisions that could facilitate a team working on a piece of software. Good planning up front might prevent many conflicts which git is being used to resolve. 
