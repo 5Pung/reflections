@@ -30,4 +30,10 @@ Working on sections of code in sandboxes to test them before trying to add them 
 
 Manually keeping differently named files in a folder system on the computer could also be done. 
 
-There are probably a lot of project management and software architecture decisions that could facilitate a team working on a piece of software. Good planning up front might prevent many conflicts which git is being used to resolve. 
+There are probably a lot of project management and software architecture decisions that could facilitate a team working on a piece of software. Good planning up front might prevent many conflicts which git is being used to resolve.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I suppose when collaborating different collaborators might want to make changes int heir own branches to compartmentalize possible errors.  Another reason not to work on master branch is that the master is the current version of the product. One might make a branch of master for updates or experiments and then branches of that branch for each collaborator to work on their parts or on their different ideas. 
+
+I can’t think of a reason to work directly on the master except at an early stage when the program is being built.  
